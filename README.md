@@ -1,2 +1,2 @@
 # Project
-Credit Card Prediction
+Credit Card Scam Prediction 
